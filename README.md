@@ -4,8 +4,8 @@ This course is an introduction to the Python programming language and SQL for st
 
 ## Basic Setup
 
-Go to "computing_environment" and follow:
+Go to the "computing_setup" folder and follow:
 
-- GITHUB 1 – Getting Started
 - Installing Python Using Anaconda
 - Installing Visual Studio Code and Connecting it with Anaconda
+- GitHub 1 Getting Started
