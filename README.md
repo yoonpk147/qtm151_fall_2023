@@ -9,3 +9,5 @@ Go to the "computing_setup" folder and follow:
 - Installing Python Using Anaconda
 - Installing Visual Studio Code and Connecting it with Anaconda
 - GitHub 1 Getting Started
+
+I made a change
