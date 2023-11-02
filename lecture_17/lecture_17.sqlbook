@@ -142,7 +142,7 @@ SELECT * FROM schemas_name.tables_name
 ```
 -- SQLBook: Code
 -- Write your own code
-
+SELECT * FROM members.us_congress_members;
 -- SQLBook: Markup
 # <span style="color:darkblue"> III. Merge Data </span>
 
